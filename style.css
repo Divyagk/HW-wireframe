@@ -1,0 +1,85 @@
+
+       
+       *{ box-sizing: border-box;
+        }
+
+        /* Style  body*/
+        body    {
+                background: #777;
+                color: 777;
+                font-size: 18px;
+                font-family: Arial, Helvetica, sans-serif;
+                text-align: center;
+                width: 960px;
+                margin: 0 auto;
+                }
+
+        /* Style the header*/
+        .head   {
+                padding: 15px;
+                margin-bottom: 10px;
+                background: #ebebeb;
+                height: 90px;
+                margin-top: 10px;
+                }
+        
+                /*style nav*/
+        .nav    {
+                padding: 35px;
+                height: 90px;
+                background: #ebebeb;
+                margin-bottom: 20px;
+                }
+
+        /* Style section*/
+        .sec    {
+                float: left;
+                width: 495px;
+                padding: 5px;
+                background: #ebebeb;
+                margin-bottom: 20px;
+                
+                } 
+                
+                /*style aside*/
+        .aside  {
+                float: right;
+                width: 40%;
+                background: #ebebeb;
+                padding: 100px;
+                }               
+                      
+               /*style article*/
+        .art    {
+                width: 100%;
+                padding: 10px;
+                color: #ebebeb;
+                background:  #777;
+                float: left; 
+                }
+
+                /*style paragraph(p) inside the article*/
+        .p      {
+                color: #777;
+                background: #ebebeb;
+                width:100%;
+                padding-left: 1px;
+                height: 45px;
+                }
+
+                /*style header(h) inside the article*/
+
+        .h      {
+                color: #777;
+                width:100%;
+                padding-left: 1px;
+                background: #ebebeb;
+                height: 45px;
+                }
+
+        /*style the footer*/ 
+        .foot   {
+                padding: 35px;
+                margin-top: 255px;
+                background: #ebebeb;
+                }        
